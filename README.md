@@ -26,9 +26,9 @@ Python • JavaScript • HTML/CSS • C • C++
   <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,bootstrap,postgres,docker,supabase&perline=12" />
 </p>
 
----
-
 FastAPI • Flask • React • Node.js • Bootstrap • PostgreSQL • Docker  • Supabase • Streamlit
+
+---
 
 #### 🤖 AI & Multi-Agent Systems
 <p align="left">
