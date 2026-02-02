@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yasin Sezgin
 
-**Software & Automation Engineer | AI & Cloud Enthusiast**
+**Software & Automation Developer | AI & Cloud Enthusiast**
 
 I'm passionate about building intelligent systems that connect data, automation, and clean design.  
 Currently working on e-commerce integrations, backend automations, and multi-agent AI systems for my bachelor thesis.  
